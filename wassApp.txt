@@ -7,4 +7,10 @@ erstellt
 daniels aenderu
 
 
+<<<<<<< HEAD
 flos änderung
+=======
+....
+
+nochmal meine aenderung
+>>>>>>> 650568a53c17c009e7f8b5a2cd415cfe124df001
